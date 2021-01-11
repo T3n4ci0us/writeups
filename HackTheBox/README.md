@@ -1,5 +1,5 @@
 # HackTheBox
-*For now we will only create writeups for active boxes!*
+*For now we will only create writeups for active boxes!*<br>
 There are two sections for HTB one is the `active` boxes which are free for everyone and there are `retired` boxes where you will need VIP.
 
 ## Write-ups rules
