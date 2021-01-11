@@ -1,2 +1,6 @@
-# writeups
-write-ups for ctfs, thm rooms and more
+# Write-UPS
+
+We are creating write-ups for:
+ - CTFs
+ - TryHackMe Rooms/KOTH
+ - HackTheBox
