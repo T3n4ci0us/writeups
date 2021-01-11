@@ -1,23 +1,15 @@
-Write-UPS
-=========
-
-Table of Contents
-=================
+# Table of Contents
 
  - ## CTFs
-----
 
  - ## TryHackMe
----------
+    - ### Rooms
+      - usd
 
-### Rooms
--   usd
-
-### KOTH
+    - ### KOTH
 
  - ## HackTheBox
-----------
 
  - ## Other
    - [Create a write-up](./add_writeup.md)
-----------
+
