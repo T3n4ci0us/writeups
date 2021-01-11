@@ -1,15 +1,13 @@
 # Table of Contents <br>
 
- - ## CTFs
+ - ### CTFs
 
- - ## TryHackMe
-    - ### Rooms
-      - usd
+ - ### TryHackMe
+    - #### Rooms
+    - #### KOTH
 
-    - ### KOTH
+ - ### HackTheBox
 
- - ## HackTheBox
-
- - ## Other
+ - ### Other
    - [Create a write-up](./add_writeup.md)
 
