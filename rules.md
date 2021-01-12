@@ -5,7 +5,7 @@ These are the rules from THM/HTB for creating writeups.
  - Writeups should have a link to TryHackMe 
  - Don't include any passwords/cracked hashes/flags.
  
- ## HackTheBox
+## HackTheBox
   - Don't do write ups for active boxes
   - Don't share flag/s
 
