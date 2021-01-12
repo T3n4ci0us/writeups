@@ -1,6 +1,4 @@
-# TryHackMe write-ups
-
-There are two sections for TryHackMe one is for rooms and the other one is for koth.
+# TryHackMe
 
 ## Table of Contents
 ### Rooms
