@@ -18,3 +18,4 @@ so lets take a look at gtfobins now we know that we have to use `sudo find . -ex
 
 
 *This is a pretty simple example of a writeup for any questions create an issue.*
+[Tutorial for MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
