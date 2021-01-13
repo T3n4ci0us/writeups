@@ -14,9 +14,9 @@ By looking at the platform, we can see the homepage of the platform is titled as
 
 ![Imgur](https://i.imgur.com/sWvXe0N.png)
 
-In the beginning, I tried to look for flag that could be hidden in the source code. What I did was running `Ctrl + U` to view the source code. This did not get me anywhere. 
+In the beginning, I tried to look for the flag that could be hidden in the source code. What I did was running `Ctrl + U` to view the source code. This did not get me anywhere. 
 
-Then, I tried to look for all the static files uploaded to the website. I achieved this by running `Ctrl + Shift + I` → `sources`. After going through the files, I noticed an interesting image under the path `realworldctf.com/static/img/signin.baacf08.jpg` . Could this be the path to flag? Let's find out!
+Then, I tried to look for all the static files uploaded to the website. This can be done by running `Ctrl + Shift + I` → `sources`. After going through the files, I noticed an interesting image under the path `realworldctf.com/static/img/signin.baacf08.jpg` . Could this be the path to the flag? Let's find out!
 
 ![Imgur](https://i.imgur.com/Wb90IJb.png)
 
