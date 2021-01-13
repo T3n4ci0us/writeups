@@ -6,8 +6,7 @@ Challenge Details:
 - Name: HOME
 - Points: 41
 - Description: No need to wear a mask at HOME
-<br/>
-<br/>
+
 # Solution  
 This challenge does not require much technical skills, I found out what to do purely by instinct. Also, the description is kinda vague. However, something stands out, which is the word `HOME`. 
 
