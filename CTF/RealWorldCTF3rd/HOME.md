@@ -1,7 +1,5 @@
-Event link on CTFtime: [https://ctftime.org/event/1198](https://ctftime.org/event/1198)
-Official URL: [https://realworldctf.com/](https://realworldctf.com/)
-
-# 
+Event link on CTFtime: [https://ctftime.org/event/1198](https://ctftime.org/event/1198)  
+Official URL: [https://realworldctf.com/](https://realworldctf.com/)  
 
 **Challenge Details:**
 - Name: HOME
@@ -35,8 +33,7 @@ io.interactive()
 nc home.realworldctf.com 1337
 ```
 
-Run either one of the methods above and you will get the flag.
-
-# 
+Run either one of the methods above and you will get the flag.  
+ 
 Author: Lammm [(https://github.com/Lammm99/)](https://github.com/Lammm99/)  
 Written on: 13th January 2021
